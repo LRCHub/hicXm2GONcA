@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Break The Wall",
+  "base_artist": "NMIXX",
+  "createdAt": "2026-01-13T09:35:36.378401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Break the Wall (original extended mix)",
+      "artist": "Sandy vs. Dhany",
+      "has_synced": false,
+      "path": "select/01_Break_the_Wall_(original_extended_mix)_Sandy_vs._Dhany.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "DREAMCATCHER",
+      "has_synced": true,
+      "path": "select/02_Break_The_Wall_DREAMCATCHER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "Lovebites",
+      "has_synced": false,
+      "path": "select/03_Break_The_Wall_Lovebites.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "Dreamcatcher",
+      "has_synced": true,
+      "path": "select/04_Break_The_Wall_Dreamcatcher.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/05_Break_The_Wall_NMIXX.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Break The Wall (Break The Wall)",
+      "artist": "Dreamcatcher",
+      "has_synced": true,
+      "path": "select/06_Break_The_Wall_(Break_The_Wall)_Dreamcatcher.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "NMIXX",
+      "has_synced": true,
+      "path": "select/07_Break_The_Wall_NMIXX.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "LOVEBITES",
+      "has_synced": true,
+      "path": "select/08_Break_The_Wall_LOVEBITES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "BZN",
+      "has_synced": false,
+      "path": "select/09_Break_The_Wall_BZN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Break the Wall",
+      "artist": "Anna Blue",
+      "has_synced": true,
+      "path": "select/10_Break_the_Wall_Anna_Blue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "LOVEBITES",
+      "has_synced": true,
+      "path": "select/11_Break_The_Wall_LOVEBITES.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "Lovebites",
+      "has_synced": true,
+      "path": "select/12_Break_The_Wall_Lovebites.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Break the Wall",
+      "artist": "BTW",
+      "has_synced": true,
+      "path": "select/13_Break_the_Wall_BTW.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Break The Wall (New Mastering 2021)",
+      "artist": "Lovebites",
+      "has_synced": true,
+      "path": "select/14_Break_The_Wall_(New_Mastering_2021)_Lovebites.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Break The Wall (Instrumental Version)",
+      "artist": "Lovebites",
+      "has_synced": true,
+      "path": "select/15_Break_The_Wall_(Instrumental_Version)_Lovebites.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Break The Wall",
+      "artist": "Dreamcatcher",
+      "has_synced": true,
+      "path": "select/16_Break_The_Wall_Dreamcatcher.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Break The Wall",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Break_The_Wall_NMIXX.txt"
+    }
+  ]
+}
